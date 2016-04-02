@@ -1,0 +1,46 @@
+﻿Build started 4/2/2016 3:42:55 PM.
+     1>Project "O:\Huynh Tan\RNA-secondary-structure-prediction\RNA_2nd_structure_prediction.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(12): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(13): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(16): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(17): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(18): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>main.cpp(301): warning C4244: 'initializing' : conversion from 'clock_t' to 'float', possible loss of data
+     1>main.cpp(361): warning C4244: 'initializing' : conversion from 'clock_t' to 'float', possible loss of data
+     1>main.cpp(445): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(462): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(465): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(470): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(475): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(484): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(497): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(528): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(542): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(545): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(549): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(552): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(560): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(579): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(594): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(601): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(609): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(667): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(671): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(689): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(695): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(811): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(812): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(817): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\Huynh Tan\RNA-secondary-structure-prediction\Release\RNA_2nd_structure_prediction.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"O:\Huynh Tan\RNA-secondary-structure-prediction\Release\RNA_2nd_structure_prediction.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\Huynh Tan\RNA-secondary-structure-prediction\Release\RNA_2nd_structure_prediction.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Generating code
+         Finished generating code
+         RNA_2nd_structure_prediction.vcxproj -> O:\Huynh Tan\RNA-secondary-structure-prediction\Release\RNA_2nd_structure_prediction.exe
+     1>Done Building Project "O:\Huynh Tan\RNA-secondary-structure-prediction\RNA_2nd_structure_prediction.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.82
